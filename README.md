@@ -23,7 +23,7 @@ Este é um formulário de cadastro simples, onde é possível inserir nome, e-ma
 ### Arquivos
 
 - **index.html:** Contém a estrutura HTML do formulário de cadastro.
-- **validacoes.js:** Arquivo JavaScript que realiza as validações utilizando expressões regulares.
+- **script.js:** Arquivo JavaScript que realiza as validações utilizando expressões regulares.
 
 ### Como Utilizar?
 
